@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-import dev.alexengrig.sample.jenyasharedlib.GlobalEnv
+import tech.alexengrig.jenkins.sharedlibrary.GlobalEnv
 
 @SuppressWarnings('GrMethodMayBeStatic')
 void set(String key, String value) {

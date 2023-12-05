@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'dev.alexengrig.sample'
+group 'tech.alexengrig.jenkins'
 version '1.0-SNAPSHOT'
 
 sourceSets {

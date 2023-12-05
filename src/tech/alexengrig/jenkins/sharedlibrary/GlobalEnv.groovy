@@ -1,4 +1,4 @@
-package dev.alexengrig.sample.jenyasharedlib
+package tech.alexengrig.jenkins.sharedlibrary
 
 import com.cloudbees.groovy.cps.NonCPS
 import hudson.EnvVars

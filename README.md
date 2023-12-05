@@ -1,4 +1,3 @@
-# jenya-shared-lib
+# jenkins-shared-lib
 
-[Shared Library](https://www.jenkins.io/doc/book/pipeline/shared-libraries)
-for Jenkins ([jenya](https://github.com/alexengrig/jenya)).
+Jenkins [shared library](https://www.jenkins.io/doc/book/pipeline/shared-libraries).
